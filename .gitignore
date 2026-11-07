@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+*.zip
+nuscenes/
+select_30_image/
+resized_512x288/
+gpt4o_comparison/
+selected_30.json
